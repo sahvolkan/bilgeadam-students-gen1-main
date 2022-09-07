@@ -1,2 +1,7 @@
-# bilgeadam-students-gen1-main
+# bilgeadam-students
+
 A presentation website for my students from BilgeAdam Akademi
+
+## Demo
+
+See the site here:
